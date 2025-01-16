@@ -1,0 +1,17 @@
+I cannot stress this enough, DO NOT SHARE YOUR COOKIE!
+Even if you're asking for help or support, it is very important that you keep it to yourself
+The code I made is all open source, there is no cookie stealers, the only safe spot to put it is in cookies.txt
+ENSURE YOU ARE INSTALLING THE .EXE FILE FROM https://github.com/SmackyDahFrog/roblox-friend-remover
+
+To Obtain Cookies:
+1. Go to roblox.com
+2. Right click anywhere and press "Inspect" 
+3. Select Application at the top (if you can't see it, press the two arrows symbol for the dropdown menu)
+4. Under "Storage", select "Cookies"
+5. Under Name, select .ROBLOSECURITY
+6. At the bottom, fully copy the Cookie Value
+7. In the cookies.txt file, remove the text I had in there and fully paste in your cookie (INCLUDING THE WARNING!)
+8. Launch the executable, should automatically know who you are
+
+
+This will slightly vary from browser to browser, but most should be this method.
