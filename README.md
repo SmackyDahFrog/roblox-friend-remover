@@ -25,5 +25,5 @@
 - No extra packages required to install, the executable will just work as is
 - Cookies.txt MUST be in the same directory as unadder.exe
 - This only works on Windows 11 and Windows 10
-  
+- Checks that you want to erase the selected users first
 - For updates/suggestions join discord.gg/TheGodHand
