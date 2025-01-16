@@ -23,5 +23,6 @@
 # Extra Information
 - Inspired by Nevo's unfriender (https://github.com/NevoQF/ROBLOX-Unfriender)
 - No extra packages required to install, the executable will just work as is
-
+- This only works on Windows 11 and Windows 10
+  
 - For updates/suggestions join discord.gg/TheGodHand
