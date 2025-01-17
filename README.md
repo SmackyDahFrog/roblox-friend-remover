@@ -8,7 +8,7 @@
 1. Install the latest release
 2. Extract the file
 3. Read "obtainCookies.txt" file for information on how to get your cookies
-4. Put your cookies into cookies.txt, including the warning Roblox supplies
+4. Put your cookies into cookie.txt, including the warning Roblox supplies
 5. Before you start adding people in a nuke, open the program (it shouldn't give any cookie errors, if so retry getting cookie)
 6. Leave the program running while you nuke, and after when you want to unadd people automatically select option 1
 7. Follow the prompts and it'll do its magic!
