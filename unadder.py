@@ -75,8 +75,12 @@ def removeFriends(friendList):
             break
         if choice < len(friendList):
             friendList.pop(choice)
+            clear()
+            print("Loading...")
 
     while True:
+        clear()
+        print("Loading...")
         friendCheck(friendList)
         choice = input("If you're happy to remove all of these people, enter 'Y', else close the program now.\n").lower()
         if choice == "y":
