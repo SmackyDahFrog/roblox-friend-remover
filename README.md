@@ -1,7 +1,7 @@
 # What is this?
-- I made this program to automatically remove newly detected friends added on Roblox (from when the application was executed)
+- A program to automatically remove friends that were recently added.
 - This program is mainly for ACB, which will help clean up your friends list after a nuke.
-- This program CAN be used without supplying your cookie, however you lose access to the automation features and can only get given a list of names to remove instead.
+- This program CAN be used without supplying your cookies, however, you lose access to the automation features.
 - This program MUST be already running with either your username or cookie supplied for it to work properly.
 
 # Usage (With Cookies)
