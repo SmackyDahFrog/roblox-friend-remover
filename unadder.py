@@ -70,7 +70,7 @@ def removeFriends(friendList):
     while True:
         friendList = friendCheck(friendList)
         try:
-            choice = int(input("If you would like to remove someone from this list, just enter the number at the start of their line\nEnter anything else if you'd like to continue\n"))
+            choice = int(input("If you would like to keep someone from getting removed, just enter the number at the start of their line (1 person at a time)\nEnter anything else if you'd like to continue to remove EVERYONE seen above\n"))
         except:
             break
         if choice < len(friendList):
